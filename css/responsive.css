@@ -1,0 +1,139 @@
+@media(max-width: 767px) {
+    #banner .bannerCnt h2 {
+        font-size: 50px;
+        margin-bottom: 15px;
+    }
+
+    /* *{
+        outline: 1px solid red;
+    } */
+    #banner .bannerCnt h4 {
+        font-size: 15px;
+    }
+
+    #banner .bannerCnt p {
+        margin-bottom: 18px;
+    }
+
+
+    #banner .bannerSlider .slider-dots {
+        display: none  !important ;
+    }
+ .leftArrow,
+.rightArrow{
+            display: none !important;
+        }
+
+        #banner .bannerCnt.btn {
+        padding: 16px 25px;
+    }
+    .productHeader h2 {
+        font-size: 25px;
+    }
+    .productHeader a {
+        font-size: 13px;
+    }
+    .product{
+        margin-bottom: 10px;
+    }
+    .categoriesSlide {
+        padding: 21px 0 50px;
+    }
+    #chose .choseCnt h3 {
+        font-size: 29px;
+        margin-top: 25px;
+    }
+    #chose .choseCnt h5 {
+        font-size: 16px;
+    }
+    .lastImg{
+        display: none;
+    }
+    #pCard {
+        padding-bottom: 30px;
+    }
+    #testimonials .testmonialHeader .teCnt h3 {
+        font-size: 31px;
+    }
+    #testimonials .testmonialHeader .teIcon a{
+        display: none;
+    }
+    .friutBanner{
+        margin-bottom: 10px;
+    }
+    .featureProducts {
+    padding: 40px 0 30px;
+}
+#newsLetter .newCnt p {
+    margin: 8px 0 10px;
+}
+.newIcon.socialMedia{
+    margin: 10px 0;
+}
+    #newsLetter .newSearch {
+    width: 100%;
+}
+#contactUs {
+    padding: 80px 0 8px;
+}
+ #newsLetter{
+    padding-bottom: 8px;
+ }
+ #productDetails .productIntro h3 {
+    font-size: 31px;
+}
+#productDetails {
+    padding: 32px 0 39px;
+}
+.cta .quantity {
+    width: 98px;
+}
+#productDiscription ul li button {
+    font-size: 10px;
+
+}
+#productDiscription p {
+    font-size: 10px;
+}
+.priceTag .price-tag h4 {
+    font-size: 10px;
+}
+.socialMedia a {
+    height: 40px;
+    width: 23px;
+    line-height: 40px;
+    margin-right: 7px;
+}
+#wilshit .outstock {
+    font-size: 10px;
+}
+#wilshit h3 {
+    font-size: 11px;
+    margin:0;
+    display: inline-block;
+}
+#wilshit .cart {
+    font-size: 10px;
+    padding: 14px 33px;
+    margin:0;
+}
+#wilshit .cart1 {
+    padding: 14px 34px;
+    font-size: 10px;
+    margin: 0;
+}
+#wilshit .share {
+    margin-top: 34px;
+}
+#wilshit {
+    padding: 40px 0 30px;
+}
+#shopingCart .coupon h6 {
+    font-size: 12px;
+}
+#shopingCart .coupon button {
+    font-size: 12px;
+    right: -241px;
+    top: 13%;
+}
+}
